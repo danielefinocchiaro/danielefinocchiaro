@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MineChannel5816
-- 👀 I’m interested in ICT, technologies tips and web programming
+- 👀 I’m interested about ICT, technologies tips and web programming
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on my life with my wife Nadia
 
