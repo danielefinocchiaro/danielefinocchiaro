@@ -30,14 +30,17 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind&perline=6" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,prisma,docker,aws,gcp,vercel&perline=6" />
+  <img src="https://skillicons.dev/icons?i=express,nestjs,python,fastapi,postgres,prisma&perline=6" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,supabase,docker,aws,gcp&perline=6" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vercel,githubactions,git,github,figma,vscode&perline=6" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" />
   <img src="https://img.shields.io/badge/Serverless-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20%2F%20LLM-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 ### 📊 GitHub activity
