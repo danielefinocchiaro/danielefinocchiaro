@@ -8,6 +8,7 @@
 
 <p>
   <a href="https://danielefinocchiaro.com"><img src="https://img.shields.io/badge/Website-danielefinocchiaro.com-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/daniele-finocchiaro"><img src="https://img.shields.io/badge/LinkedIn-Daniele%20Finocchiaro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://keix.com"><img src="https://img.shields.io/badge/Keix-Data%20for%20Knowledge-1e3a8a?style=for-the-badge" /></a>
 </p>
 
@@ -47,6 +48,12 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=danielefinocchiaro&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielefinocchiaro/danielefinocchiaro/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielefinocchiaro/danielefinocchiaro/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/danielefinocchiaro/danielefinocchiaro/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 <div align="center">
