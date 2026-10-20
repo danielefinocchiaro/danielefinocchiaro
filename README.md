@@ -44,8 +44,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=danielefinocchiaro&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielefinocchiaro&theme=tokyo-night&hide_border=true&area=true&radius=10" width="100%" alt="Activity graph" />
 </div>
 
 <div align="center">
